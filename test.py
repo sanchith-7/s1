@@ -1,3 +1,4 @@
-def add(x,y):
-  sum=x+y
-  print("sum:",sum)
+def subt(a,b):
+    sub=a-b
+    print("diff:",subt)
+subt(10,20)
