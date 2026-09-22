@@ -1,4 +1,4 @@
-def subt(a,b):
+def subtraction(a,b):
     sub=a-b
-    print("diff:",subt)
-subt(10,20)
+    print("diff:",subtraction)
+subtraction(10,20)
